@@ -1,0 +1,8 @@
+computer-vision-portfolio/
+├── app.py              # Flask application
+├── requirements.txt    # Python dependencies
+├── templates/
+│   └── index.html     # Web interface
+├── Dockerfile         # Docker configuration
+├── docker-compose.yml # Docker Compose setup
+└── README.md          # Documentation
